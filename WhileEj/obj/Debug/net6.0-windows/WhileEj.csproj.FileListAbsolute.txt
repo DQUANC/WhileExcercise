@@ -1,0 +1,16 @@
+C:\Users\daniq\Documents\UdeO\progra\WhileEj\WhileEj\bin\Debug\net6.0-windows\WhileEj.exe
+C:\Users\daniq\Documents\UdeO\progra\WhileEj\WhileEj\bin\Debug\net6.0-windows\WhileEj.deps.json
+C:\Users\daniq\Documents\UdeO\progra\WhileEj\WhileEj\bin\Debug\net6.0-windows\WhileEj.runtimeconfig.json
+C:\Users\daniq\Documents\UdeO\progra\WhileEj\WhileEj\bin\Debug\net6.0-windows\WhileEj.dll
+C:\Users\daniq\Documents\UdeO\progra\WhileEj\WhileEj\bin\Debug\net6.0-windows\WhileEj.pdb
+C:\Users\daniq\Documents\UdeO\progra\WhileEj\WhileEj\obj\Debug\net6.0-windows\WhileEj.Form1.resources
+C:\Users\daniq\Documents\UdeO\progra\WhileEj\WhileEj\obj\Debug\net6.0-windows\WhileEj.csproj.GenerateResource.cache
+C:\Users\daniq\Documents\UdeO\progra\WhileEj\WhileEj\obj\Debug\net6.0-windows\WhileEj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniq\Documents\UdeO\progra\WhileEj\WhileEj\obj\Debug\net6.0-windows\WhileEj.AssemblyInfoInputs.cache
+C:\Users\daniq\Documents\UdeO\progra\WhileEj\WhileEj\obj\Debug\net6.0-windows\WhileEj.AssemblyInfo.cs
+C:\Users\daniq\Documents\UdeO\progra\WhileEj\WhileEj\obj\Debug\net6.0-windows\WhileEj.csproj.CoreCompileInputs.cache
+C:\Users\daniq\Documents\UdeO\progra\WhileEj\WhileEj\obj\Debug\net6.0-windows\WhileEj.dll
+C:\Users\daniq\Documents\UdeO\progra\WhileEj\WhileEj\obj\Debug\net6.0-windows\refint\WhileEj.dll
+C:\Users\daniq\Documents\UdeO\progra\WhileEj\WhileEj\obj\Debug\net6.0-windows\WhileEj.pdb
+C:\Users\daniq\Documents\UdeO\progra\WhileEj\WhileEj\obj\Debug\net6.0-windows\WhileEj.genruntimeconfig.cache
+C:\Users\daniq\Documents\UdeO\progra\WhileEj\WhileEj\obj\Debug\net6.0-windows\ref\WhileEj.dll
